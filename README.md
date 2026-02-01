@@ -40,13 +40,13 @@ Clone this repository into your ComfyUI's `custom_nodes` directory:
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/ShmuelRonen/ComfyUI-Audio-Quality-Enhancer.git
+git clone https://github.com/ShmuelRonen/ComfyUI-Audio_Quality_Enhancer.git
 ```
 
 ### 2. Install Required Python Dependencies
 
 ```bash
-cd ComfyUI-Audio-Quality-Enhancer
+cd ComfyUI-Audio_Quality_Enhancer
 pip install -r requirements.txt
 ```
 
